@@ -1,9 +1,9 @@
 -- ======================================================================
 -- @file	Convert note to card format.applescript.applescript
 -- @brief	Smart Rule script to convert a note to my card format
--- @author	Michael Hucka <mhucka@caltech.edu>
+-- @author	Emenike Nathaniel  <emenike.nathaniel@gmail.com>
 -- @license MIT license -- please see the file LICENSE in the repo
--- @repo	https://github.com/mhucka/devonthink-hacks
+-- @repo	https://github.com/Githubnath/personal_management_system_
 --
 -- This is an AppleScript fragment that will only work as the script
 -- executed by a Smart Rule in DEVONthink. For more information, see
