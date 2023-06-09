@@ -1,9 +1,9 @@
 -- ======================================================================
 -- @file    insert-tags-into-markdown.applescript
 -- @brief   Find a line that begins with "tags:" & append document tags
--- @author  Michael Hucka <mhucka@caltech.edu>
+-- @author  Emenike Nathaniel  <emenike.nathaniel@gmail.com>
 -- @license MIT license; please see the file LICENSE in the repo
--- @repo    https://github.com/mhucka/devonthink-hacks
+-- @repo    https://github.com/Githubnath/personal_management_system_
 --
 -- This code is based on code posted by Christian Grunenberg to a
 -- DEVONthink forum in April 2020 at
