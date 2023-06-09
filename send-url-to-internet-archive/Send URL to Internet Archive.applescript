@@ -1,9 +1,9 @@
 -- ======================================================================
 -- @file    Send URL to Internet Archive.applescript
 -- @brief   Send the URL of the selected items to the Internet Archive
--- @author  Michael Hucka <mhucka@caltech.edu>
+-- @author  Emenike Nathaniel  <emenike.nathaniel@gmail.com>
 -- @license MIT license; please see the file LICENSE in the repo
--- @repo    https://github.com/mhucka/devonthink-hacks
+-- @repo   https://github.com/Githubnath/personal_management_system_
 --
 -- This is meant to be executed by a smart rule in DEVONthink.
 -- This script assumes a metadata field named "archiveurl" exists on the
