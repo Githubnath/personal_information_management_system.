@@ -1,9 +1,9 @@
 # =============================================================================
 # @file    Open current web browser location in DEVONthink
 # @brief   Create a bookmark in DEVONthink & open it
-# @author  Michael Hucka <mhucka@caltech.edu>
+# @author  Emenike Nathaniel  <emenike.nathaniel@gmail.com>
 # @license MIT license -- please see the file LICENSE in the parent directory
-# @repo    https://github.com/mhucka/devonthink-hacks
+# @repo    https://github.com/Githubnath/personal_management_system_
 # =============================================================================
 
 use AppleScript version "2.4" -- Yosemite (10.10) or later
