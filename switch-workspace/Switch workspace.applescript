@@ -1,13 +1,12 @@
 -- ======================================================================
 -- @file    Switch workspace.applescript
 -- @brief   Save the current workspace config and switch to anotehr
--- @author  Michael Hucka <mhucka@caltech.edu>
+-- @author  Emenike Nathaniel  <emenike.nathaniel@gmail.com>
 -- @license MIT license; please see the file LICENSE in the repo
--- @repo    https://github.com/mhucka/devonthink-hacks
+-- @repo    https://github.com/Githubnath/personal_management_system_
 --
 -- The original version of this code was sent to me by Jim Neumann of
--- DEVONtechnologies via email on 2022-10-13 in response to my request
--- for a feature addition to DEVONthink. I have modified the original.
+-- DEVONtechnologies via email on 2023-06-03
 -- ======================================================================
 
 use AppleScript version "2.4" -- Yosemite (10.10) or later
