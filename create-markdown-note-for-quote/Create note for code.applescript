@@ -1,9 +1,9 @@
 -- ============================================================================
 -- @file    Create note for code.applescript
 -- @brief   Create an md note oriented for code snippets
--- @author  Michael Hucka <mhucka@caltech.edu>
+-- @author  Emenike Nathaniel <emenike.nathaniel@gmail.com>
 -- @license MIT license; please see the file LICENSE in the repo
--- @repo    https://github.com/mhucka/devonthink-hacks
+-- @repo    https://github.com/Githubnath/personal_management_system_
 --
 -- This is meant to work anywhere, not just inside DEVONthink.
 --
