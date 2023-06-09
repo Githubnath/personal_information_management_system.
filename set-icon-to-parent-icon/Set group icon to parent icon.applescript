@@ -1,9 +1,9 @@
 -- ======================================================================
 -- @file	Set group icon to parent icon.applescript
 -- @brief	Set the icon of a selected group to that of its parent group
--- @author	Michael Hucka <mhucka@caltech.edu>
+-- @author	Emenike Nathaniel  <emenike.nathaniel@gmail.com>
 -- @license MIT license; please see the file LICENSE in the repo
--- @repo	https://github.com/mhucka/devonthink-hacks
+-- @repo	https://github.com/Githubnath/personal_management_system_
 --
 -- This script only acts on groups and smart groups.
 -- ======================================================================
