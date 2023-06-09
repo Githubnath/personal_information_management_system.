@@ -1,4 +1,4 @@
-# Personal management system
+# Personal information system
 
 These are scripts and programs I developed to work with [DEVONthink](), a powerful personal database and information management system.
  
