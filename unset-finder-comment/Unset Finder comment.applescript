@@ -1,9 +1,9 @@
 -- ======================================================================
 -- @file	Unset Finder comment
 -- @brief	Unset the Finder comment of select records
--- @author	Michael Hucka <mhucka@caltech.edu>
+-- @author	Emenike Nathaniel  <emenike.nathaniel@gmail.com>
 -- @license MIT license; please see the file LICENSE in the repo
--- @repo	https://github.com/mhucka/devonthink-hacks
+-- @repo	https://github.com/Githubnath/personal_management_system_
 -- ======================================================================
 
 use AppleScript version "2.4" -- Yosemite (10.10) or later
