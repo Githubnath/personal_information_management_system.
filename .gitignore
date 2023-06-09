@@ -1,0 +1,53 @@
+# =========================================================== -*- gitignore -*-
+# @file    .gitignore
+# @brief   Files and patterns for files and subdirs that git should ignore
+# @date    2022-07-15
+# @license Please see the file named LICENSE in the project directory
+# @website https://github.com/mhucka/devonthink-hacks
+#
+# Rules that apply to one's way of doing things (and the particular tools you
+# happen to use) are best put in a global git ignore file. See
+# "Configuring ignored files for all repositories on your computer" here:
+# https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# (accessed on 2022-07-14). For example, Emacs checkpoint and backup files are
+# things that are not specific to a given project; rather, Emacs users will
+# see them created everywhere, in all projects, because they're a byproduct
+# of using Emacs, not a consequence of working on a particular project. Thus,
+# they belong in a user's global ignores list, not in this project .gitignore.
+#
+# A useful starting point for global .gitignore file contents can be found at
+# https://github.com/github/gitignore/tree/main/Global (as of 2022-07-14).
+# =============================================================================
+
+# AppleScript-specific things to ignore
+# .............................................................................
+
+*.scpt
+
+
+# Python-specific things to ignore
+# .............................................................................
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache
+.coverage
+
+
+# Project-specific things to ignore:
+# .............................................................................
+
+build
+dist
+write-uri-into-comments/*.scpt
+zowie-scripts/*.scpt
+set-icon-to-parent-icon/*.scpt
+unset-url/*.scpt
+unset-finder-comment/*.scpt
+zoinks-scripts/*.scpt
+create-document-from-template/*.scpt
+switch-workspace/*.scpt
+create-markdown-note-for-quote/*.scpt
